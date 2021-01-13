@@ -1,0 +1,4 @@
+baseURL = "https://cardinvitationmoonth.vercel.app"
+languageCode = "en-us"
+title = "Make Invitation Card"
+theme = "tale-hugo-master"
